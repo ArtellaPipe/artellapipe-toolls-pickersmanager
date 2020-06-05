@@ -1,0 +1,18 @@
+artellapipe.tools package
+=========================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   artellapipe.tools.pickersmanager
+
+Module contents
+---------------
+
+.. automodule:: artellapipe.tools
+   :members:
+   :undoc-members:
+   :show-inheritance:

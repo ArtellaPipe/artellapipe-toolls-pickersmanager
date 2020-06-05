@@ -1,0 +1,18 @@
+artellapipe.tools.pickersmanager.core package
+=============================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   artellapipe.tools.pickersmanager.core.pickersmanager
+
+Module contents
+---------------
+
+.. automodule:: artellapipe.tools.pickersmanager.core
+   :members:
+   :undoc-members:
+   :show-inheritance:

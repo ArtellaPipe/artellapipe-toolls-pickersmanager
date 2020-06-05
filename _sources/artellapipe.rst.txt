@@ -1,0 +1,18 @@
+artellapipe package
+===================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   artellapipe.tools
+
+Module contents
+---------------
+
+.. automodule:: artellapipe
+   :members:
+   :undoc-members:
+   :show-inheritance:

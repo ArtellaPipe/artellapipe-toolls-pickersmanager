@@ -1,0 +1,18 @@
+artellapipe.tools.pickersmanager.widgets package
+================================================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   artellapipe.tools.pickersmanager.widgets.pickersmanagertool
+
+Module contents
+---------------
+
+.. automodule:: artellapipe.tools.pickersmanager.widgets
+   :members:
+   :undoc-members:
+   :show-inheritance:

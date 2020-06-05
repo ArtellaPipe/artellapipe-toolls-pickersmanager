@@ -1,0 +1,7 @@
+artellapipe.tools.pickersmanager.core.pickersmanager module
+===========================================================
+
+.. automodule:: artellapipe.tools.pickersmanager.core.pickersmanager
+   :members:
+   :undoc-members:
+   :show-inheritance:

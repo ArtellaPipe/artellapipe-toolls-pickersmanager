@@ -1,0 +1,4 @@
+include artellapipe/tools/pickersmanager/__logging__.ini
+recursive-include artellapipe/tools/pickersmanager/resources/* *.*
+include versioneer.py
+include artellapipe/tools/pickersmanager/_version.py

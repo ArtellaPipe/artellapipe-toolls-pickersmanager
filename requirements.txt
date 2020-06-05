@@ -1,0 +1,6 @@
+# ===================================================================
+# artellapipe-tools-pickersmanager requirements file
+# ===================================================================
+
+artellapipe
+artellapipe-libs-picker
